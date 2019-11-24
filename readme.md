@@ -1,4 +1,4 @@
-## User Authentication in PHP
+#User Authentication in PHP
 
 ## Files
 1. db.php - handles all db queries
